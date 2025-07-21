@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Matthew Clement 👋
 
-<!--
-**mattclement-dev/mattclement-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year BSc Computer & Information Sciences student at The IIE Varsity College (Durban North), with a strong interest in **Software Development**, **Cloud Services**, and **IT Management**.
 
-Here are some ideas to get you started:
+💻 I code in Java, C#, Kotlin, HTML, and SQL — with a passion for building clean, scalable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Currently exploring: Azure Cloud Services, Object-Oriented Design, and Full Stack Web Development.
+
+🎵 Outside of tech, I produce and perform music — combining creativity with technical skills in sound engineering.
+
+## 🛠️ Skills
+- **Languages:** Java, C#, Kotlin, HTML, SQL
+- **Tools & Tech:** Visual Studio, SQL Server, Oracle SQL Developer, Git, Azure, DaVinci Resolve
+- **Soft Skills:** Problem Solving, Team Collaboration, Clear Communication
+
+## 📂 Notable Projects
+🚀 Coming soon — I'm currently uploading coursework and personal projects. Stay tuned!
+
+<!-- Optional badges (if you want) -->
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattclement&show_icons=true&theme=tokyonight)
