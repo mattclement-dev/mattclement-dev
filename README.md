@@ -16,7 +16,7 @@
 ## 📂 Notable Projects
 
 ### [ScrapingBy](https://github.com/STSpencerPeters/ScrapingBy.git)
-A budgeting app for students build in android studio with firebase database and authentication. The app allows for students to budget their expendeture efficiently
+A budgeting app for students built in android studio with firebase database and authentication. The app allows for students to budget their expendeture efficiently
 
 🚀 More projects coming soon — I'm currently uploading completed coursework and personal projects. Stay tuned!
 
