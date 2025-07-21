@@ -11,7 +11,7 @@
 ## 🛠️ Skills
 - **Languages:** Java, C#, Kotlin, HTML, SQL
 - **Tools & Tech:** Visual Studio, SQL Server, Oracle SQL Developer, Git, Azure, DaVinci Resolve
-- **Soft Skills:** Problem Solving, Team Collaboration, Clear Communication
+- **Soft Skills:** Problem Solving, Team Collaboration, Clear Communication, Interpersonal Skills
 
 ## 📂 Notable Projects
 
