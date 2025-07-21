@@ -1,6 +1,6 @@
 # Hi, I'm Matthew Clement 👋
 
-🎓 I'm a 3rd-year BSc Computer & Information Sciences student at The IIE Varsity College (Durban North), with a strong interest in **Software Development**, **Cloud Services**, and **IT Management**.
+🎓 I'm a 3rd-year BSc Computer & Information Sciences student at The IIE Varsity College, with a strong interest in **Software Development**, **Cloud Services**, and **IT Management**.
 
 💻 I code in Java, C#, Kotlin, HTML, and SQL — with a passion for building clean, scalable software.
 
