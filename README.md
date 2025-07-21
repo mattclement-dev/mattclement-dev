@@ -16,5 +16,3 @@
 ## 📂 Notable Projects
 🚀 Coming soon — I'm currently uploading coursework and personal projects. Stay tuned!
 
-<!-- Optional badges (if you want) -->
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattclement&show_icons=true&theme=tokyonight)
