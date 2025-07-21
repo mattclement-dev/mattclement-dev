@@ -14,5 +14,9 @@
 - **Soft Skills:** Problem Solving, Team Collaboration, Clear Communication
 
 ## 📂 Notable Projects
+
+### [ScrapingBy](https://github.com/STSpencerPeters/ScrapingBy.git)
+A budgeting app for students build in android studio with firebase database and authentication. The app allows for students to budget their expendeture efficiently
+
 🚀 Coming soon — I'm currently uploading coursework and personal projects. Stay tuned!
 
