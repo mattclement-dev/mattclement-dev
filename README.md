@@ -2,14 +2,14 @@
 
 🎓 I'm a 3rd-year BSc Computer & Information Sciences student at The IIE Varsity College, with a passion for **Software Development**, **Cloud Services**, and **IT Management**.
 
-💻 I code in Java, C#, Kotlin, HTML, and SQL — with a focus on building clean, scalable software.
+💻 I code in Java, C#, Kotlin, HTML, Reacte, Javascript and SQL — with a focus on building clean, scalable software.
 
 🌐 Currently exploring: Azure Cloud Services, Object-Oriented Design, and Full Stack Web Development.
 
 🎵 Outside of tech, I produce and perform music — combining creativity with technical skills in sound engineering and music production.
 
 ## 🛠️ Skills
-- **Languages:** Java, C#, Kotlin, HTML, SQL
+- **Languages:** Java, C#, Kotlin, HTML, SQL, React, JavaScript
 - **Tools & Tech:** Visual Studio, Android Studio, SQL Server, Oracle SQL Developer, Git, Azure
 - **Soft Skills:** Interpersonal Skills, Problem Solving, Team Collaboration, Clear Communication
 
