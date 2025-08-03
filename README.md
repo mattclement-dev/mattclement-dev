@@ -6,8 +6,6 @@
 
 🌐 Currently exploring: Azure Cloud Services, Object-Oriented Design, and Full Stack Web Development.
 
-🎵 Outside of tech, I produce and perform music — combining creativity with technical skills in sound engineering and music production.
-
 ## 🛠️ Skills
 - **Languages:** Java, C#, Kotlin, HTML, SQL, React, JavaScript
 - **Tools & Tech:** Visual Studio, Android Studio, SQL Server, Oracle SQL Developer, Git, Azure
