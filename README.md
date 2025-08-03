@@ -24,5 +24,5 @@ Role-based ASP.NET Core MVC web application with a SQL Lite Database built to su
 
 🚀 More projects coming soon — I'm currently uploading completed coursework and personal projects. Stay tuned!
 
-### [Secondary Repo](https://github.com/ST10247110))
+### [Secondary Account](https://github.com/ST10247110)
 
