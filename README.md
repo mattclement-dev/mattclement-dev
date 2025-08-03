@@ -21,9 +21,9 @@ A budgeting app for students built in android studio with firebase database and 
 ### [Agri-Energy Connect](https://github.com/ST10247110/AgriEnergyConnect.git)
 Role-based ASP.NET Core MVC web application with a SQL Lite Database built to support sustainable agriculture management by allowing Employees to register and manage Farmers, and Farmers to manage their Products. The platform uses image uploads, filtering features, and secure authentication to support seamless digital agricultural operations.
 
+### [Student Account](https://github.com/ST10247110) (I am quite active here)
 
 🚀 More projects coming soon — I'm currently uploading completed coursework and personal projects. Stay tuned!
 
-### [Student Account](https://github.com/ST10247110)
-I am quite active here
+
 
