@@ -14,7 +14,7 @@
 ## 📂 Projects
 
 ### [ScrapingBy](https://github.com/STSpencerPeters/ScrapingBy.git)
-A budgeting app for students built in android studio with firebase database and authentication. The app allows for students to budget their expendeture efficiently.
+A budgeting app for students built in android studio with firebase database and authentication. The app allows for students to budget their expendeture efficiently. Feel free to check out the Live Demo for the app included in our README.
 
 ### [Agri-Energy Connect](https://github.com/ST10247110/AgriEnergyConnect.git)
 Role-based ASP.NET Core MVC web application with a SQL Lite Database built to support sustainable agriculture management by allowing Employees to register and manage Farmers, and Farmers to manage their Products. The platform uses image uploads, filtering features, and secure authentication to support seamless digital agricultural operations.
