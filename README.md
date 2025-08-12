@@ -11,6 +11,17 @@
 - **Tools & Tech:** Visual Studio, Android Studio, SQL Server, Oracle SQL Developer, Git, Azure
 - **Soft Skills:** Interpersonal Skills, Problem Solving, Team Collaboration, Clear Communication
 
+🛠️ Languages and Tools
+<p align="left">
+  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img alt="XML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
+</p>
+
 ## 📂 Projects
 
 ### [ScrapingBy](https://github.com/STSpencerPeters/ScrapingBy.git)
