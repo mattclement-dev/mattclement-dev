@@ -22,6 +22,11 @@
   <img alt="XML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
 </p>
 
+📊 GitHub Stats
+!Top Langs
+
+---
+
 ## 📂 Projects
 
 ### [ScrapingBy](https://github.com/STSpencerPeters/ScrapingBy.git)
